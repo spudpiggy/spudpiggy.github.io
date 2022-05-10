@@ -1,2 +1,2 @@
 # What
-Personal site for quick reference
+Personal site
